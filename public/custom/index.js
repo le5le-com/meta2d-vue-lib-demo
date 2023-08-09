@@ -1,0 +1,1 @@
+const customPens = ["canvas","dom","path2d"];

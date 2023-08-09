@@ -1,14 +1,19 @@
-<script setup>
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-</script>
 
 <template>
   <div class="Home">
-    <meta2d-vue />
+    <meta2d-vue >
+      <template v-slot:project>
+        <div>
+          <Project></Project>
+        </div>
+      </template>
+    </meta2d-vue>
   </div>
 </template>
 
+<script lang="js" setup>
+import Project from "./Project.vue";
+</script>
 <style>
 .Home {
   height: 100vh;

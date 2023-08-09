@@ -1,0 +1,16 @@
+{
+  "name":"cloud1",
+  "image": "/custom/path2d.png",
+  "width": 100,
+  "height": 100,
+  "type": "path2d",
+  "js": "window.cloud1=function(pen,ctx){const path=!ctx?new Path2D():ctx;const{x,y,width,height}=pen.calculative.worldRect;path.moveTo(x+width/5,y+(height*13)/16);let offset=0;if(pen.properties&&Array.isArray(pen.properties.extend)){const index=pen.properties.extend.findIndex((el)=>el.attr==='offsetX');if(index!==-1){offset=pen.properties.extend[index].value}}path.bezierCurveTo(x+offset-width/15,y+(height*13)/16,x+offset-width/15,y+(height*7)/16,x+offset+width/5,y+(height*7)/16);path.bezierCurveTo(x+offset+width/5,y,x+offset+(width*4)/5,y,x+offset+(width*4)/5,y+(height*7)/16);path.bezierCurveTo(x+offset+(width*16)/15,y+(height*7)/16,x+offset+(width*16)/15,y+(height*13)/16,x+offset+(width*4)/5,y+(height*13)/16);path.closePath();if(path instanceof Path2D)return path};",
+  "properties":[
+    {
+      "attr": "offsetX",
+      "name": "X偏移",
+      "valueType": "number",
+      "defaultValue": -10
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4163664",
+  "name": "cet",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "中电电力项目",
+  "glyphs": [
+    {
+      "icon_id": "1149328",
+      "name": "mouse-pointer",
+      "font_class": "mousepointer",
+      "unicode": "eb24",
+      "unicode_decimal": 60196
+    },
+    {
+      "icon_id": "5297092",
+      "name": "pointer-up",
+      "font_class": "pointer-up",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}

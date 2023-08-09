@@ -1,0 +1,22 @@
+{
+  "name":"le5leSwitch1",
+  "image": "/custom/canvas.png",
+  "height": 30,
+  "width": 60,
+  "type": "canvas",
+  "js": "const SWITCH_ATTR='checked';const COLOR_ATTR='onColor';function click(pen){if(pen.disable){return}if(pen.properties&&Array.isArray(pen.properties.extend)){const index=pen.properties.extend.findIndex(el=>el.attr===SWITCH_ATTR);if(index!==-1){pen.properties.extend[index].value=!pen.properties.extend[index].value}}pen.calculative.canvas.store.emitter.emit('valueUpdate',pen);pen.calculative.canvas.render()}window.le5leSwitch1=function(ctx,pen){if(!pen)return;if(!pen.onClick){pen.onClick=click}let x=pen.calculative.worldRect.x;let y=pen.calculative.worldRect.y;let w=pen.calculative.worldRect.width;let h=pen.calculative.worldRect.height;if(w<h*1.5){w=1.5*h}ctx.beginPath();ctx.arc(x+h/2,y+h/2,h/2,Math.PI/2,(Math.PI*3)/2);ctx.lineTo(x+w-h/2,y);ctx.arc(x+w-h/2,y+h/2,h/2,-Math.PI/2,Math.PI/2);ctx.lineTo(x+h/2,y+h);if(pen.properties&&Array.isArray(pen.properties.extend)){const index=pen.properties.extend.findIndex(el=>el.attr===SWITCH_ATTR);if(index!==-1){if(pen.properties.extend[index].value){const oIndex=pen.properties.extend.findIndex(el=>el.attr===COLOR_ATTR);if(oIndex!==-1){ctx.fillStyle=pen.properties.extend[oIndex].value}if(pen.disable){ctx.fillStyle=pen.disableOnColor}ctx.fill();ctx.closePath();ctx.beginPath();ctx.fillStyle='#ffffff';ctx.moveTo(x+h*2,y+h/2);ctx.arc(x+w-h/2,y+h/2,h/2>2?h/2-2:1,0,Math.PI*2);ctx.fill()}else{ctx.fillStyle=pen.offColor;if(pen.disable){ctx.fillStyle=pen.disableOffColor}ctx.fill();ctx.closePath();ctx.beginPath();ctx.fillStyle='#ffffff';ctx.moveTo(x+h,y+h/2);ctx.arc(x+h/2,y+h/2,h/2>2?h/2-2:1,0,Math.PI*2);ctx.fill()}}}ctx.closePath()}",
+  "properties":[
+    {
+      "attr": "checked",
+      "name": "是否勾选",
+      "valueType": "bool",
+      "defaultValue": false
+    },
+    {
+      "attr": "onColor",
+      "name": "开启颜色",
+      "valueType": "color",
+      "defaultValue": "#0f0"
+    }
+  ]
+}
