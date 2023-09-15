@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>上移一层</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画" transform="translate(-575.000000, -275.000000)">
+            <g id="上移一层" transform="translate(575.000000, 275.000000)">
+                <rect id="矩形备份-193" x="0" y="0" width="16" height="16"></rect>
+                <rect id="矩形备份-195" x="1" y="1" width="14" height="14"></rect>
+                <path d="M10,2.53553391 C10.2761424,2.53553391 10.5,2.75939153 10.5,3.03553391 C10.5,3.31167628 10.2761424,3.53553391 10,3.53553391 L6.499,3.53553391 L6.5,7.03553391 C6.5,7.31167628 6.27614237,7.53553391 6,7.53553391 C5.72385763,7.53553391 5.5,7.31167628 5.5,7.03553391 L5.5,3.03553391 C5.5,2.75939153 5.72385763,2.53553391 6,2.53553391 L10,2.53553391 Z" id="形状结合" fill="#666666" transform="translate(8.000000, 5.035534) rotate(-315.000000) translate(-8.000000, -5.035534) "></path>
+                <rect id="矩形" fill="#666666" transform="translate(8.000000, 8.000000) rotate(-270.000000) translate(-8.000000, -8.000000) " x="2" y="7.5" width="12" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

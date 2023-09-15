@@ -17,6 +17,18 @@
       "name": "开启颜色",
       "valueType": "color",
       "defaultValue": "#0f0"
+    },
+    {
+      "attr": "onColor",
+      "name": "开启颜色1111111111111111",
+      "valueType": "color",
+      "defaultValue": "#0f0"
+    },
+    {
+      "attr": "onColor",
+      "name": "开启颜色222222222222222222",
+      "valueType": "color",
+      "defaultValue": "#0f0"
     }
   ]
 }

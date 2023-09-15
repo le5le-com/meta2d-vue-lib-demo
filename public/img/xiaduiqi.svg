@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>下对齐</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画" transform="translate(-603.000000, -217.000000)">
+            <g id="下对齐" transform="translate(611.000000, 225.000000) scale(-1, 1) rotate(-90.000000) translate(-611.000000, -225.000000) translate(603.000000, 217.000000)">
+                <rect id="矩形备份-193" x="0" y="0" width="16" height="16"></rect>
+                <rect id="矩形备份-195" x="1" y="1" width="14" height="14"></rect>
+                <rect id="矩形" stroke="#666666" fill="#666666" x="3.5" y="9.5" width="7" height="3" rx="1"></rect>
+                <rect id="矩形备份-14" stroke="#666666" fill="#FFFFFF" x="3.5" y="3.5" width="9" height="3" rx="1"></rect>
+                <rect id="矩形" stroke="#666666" x="1.5" y="1.5" width="1" height="13"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

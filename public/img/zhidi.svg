@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>置底</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画" transform="translate(-654.000000, -275.000000)">
+            <g id="置底" transform="translate(662.000000, 283.000000) rotate(-180.000000) translate(-662.000000, -283.000000) translate(654.000000, 275.000000)">
+                <rect id="矩形备份-193" x="0" y="0" width="16" height="16"></rect>
+                <rect id="矩形备份-195" x="1" y="1" width="14" height="14"></rect>
+                <path d="M10,3.53553391 C10.2761424,3.53553391 10.5,3.75939153 10.5,4.03553391 C10.5,4.31167628 10.2761424,4.53553391 10,4.53553391 L6.499,4.53553391 L6.5,8.03553391 C6.5,8.31167628 6.27614237,8.53553391 6,8.53553391 C5.72385763,8.53553391 5.5,8.31167628 5.5,8.03553391 L5.5,4.03553391 C5.5,3.75939153 5.72385763,3.53553391 6,3.53553391 L10,3.53553391 Z" id="形状结合" fill="#666666" transform="translate(8.000000, 6.035534) rotate(-315.000000) translate(-8.000000, -6.035534) "></path>
+                <rect id="矩形" fill="#666666" x="3" y="1" width="10" height="1" rx="0.5"></rect>
+                <rect id="矩形" fill="#666666" transform="translate(8.000000, 9.000000) rotate(-270.000000) translate(-8.000000, -9.000000) " x="2" y="8.5" width="12" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

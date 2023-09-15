@@ -8,4 +8,4 @@ import meta2d from 'meta2d-vue/meta2d-vue.es.js';
 
 import 'meta2d-vue/style.css';
 
-createApp(App).use(router).use(store).use(meta2d).mount('#app');
+createApp(App).use(router).use(store).use(meta2d,{store}).mount('#app');

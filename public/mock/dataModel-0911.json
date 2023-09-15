@@ -1,0 +1,1695 @@
+{
+  "ver": "V1",
+  "editTime": "2023-09-08 19:21:58",
+  "devs": [
+    {
+      "devName": "$SYS",
+      "devDesc": "装置自身",
+      "devType": "$SYS",
+      "drvName": "$SYS",
+      "devProps": {},
+      "devPath": {
+        "path": "",
+        "name": "装置自身"
+      }
+    },
+    {
+      "devName": "D4186449503991103488",
+      "devDesc": "逆变器1_1",
+      "devType": "ACQDEV",
+      "drvName": "SG33CX-2P-CN-ModbusMaster-V10",
+      "devProps": {
+        "chnIndex": 6,
+        "devIndex": 0
+      },
+      "devPath": {
+        "path": "采集通道7",
+        "name": "逆变器1_1"
+      }
+    },
+    {
+      "devName": "D4186449503991103489",
+      "devDesc": "逆变器1_12345777ddddd",
+      "devType": "ACQDEV",
+      "drvName": "SG33CX-2P-CN-ModbusMaster-V10",
+      "devProps": {
+        "chnIndex": 6,
+        "devIndex": 0
+      },
+      "devPath": {
+        "path": "采集通道7",
+        "name": "逆变器1_12345777ddddd"
+      }
+    },
+    {
+      "devName": "D4186449520827039744",
+      "devDesc": "逆变器1_2",
+      "devType": "ACQDEV",
+      "drvName": "SG33CX-2P-CN-ModbusMaster-V10",
+      "devProps": {
+        "chnIndex": 6,
+        "devIndex": 1
+      },
+      "devPath": {
+        "path": "采集通道7",
+        "name": "逆变器1_2"
+      }
+    },
+    {
+      "devName": "D4186449524174094337",
+      "devDesc": "逆变器2_1",
+      "devType": "ACQDEV",
+      "drvName": "SG33CX-2P-CN-ModbusMaster-V10",
+      "devProps": {
+        "chnIndex": 6,
+        "devIndex": 2
+      },
+      "devPath": {
+        "path": "采集通道7",
+        "name": "逆变器2_1"
+      }
+    },
+    {
+      "devName": "D4186449526615179265",
+      "devDesc": "逆变器2_2",
+      "devType": "ACQDEV",
+      "drvName": "SG33CX-2P-CN-ModbusMaster-V10",
+      "devProps": {
+        "chnIndex": 6,
+        "devIndex": 3
+      },
+      "devPath": {
+        "path": "采集通道7",
+        "name": "逆变器2_2"
+      }
+    },
+    {
+      "devName": "D4186449636367532032",
+      "devDesc": "温湿度计",
+      "devType": "ACQDEV",
+      "drvName": "PMC-Temperature-ModbusMaster-V10",
+      "devProps": {
+        "chnIndex": 6,
+        "devIndex": 4
+      },
+      "devPath": {
+        "path": "采集通道7",
+        "name": "温湿度计"
+      }
+    },
+    {
+      "devName": "D4186449699848323072",
+      "devDesc": "辐照仪",
+      "devType": "ACQDEV",
+      "drvName": "PMC-Irradiator-ModbusMaster-V10",
+      "devProps": {
+        "chnIndex": 6,
+        "devIndex": 5
+      },
+      "devPath": {
+        "path": "采集通道7",
+        "name": "辐照仪"
+      }
+    },
+    {
+      "devName": "D4186449770908221440",
+      "devDesc": "风速计",
+      "devType": "ACQDEV",
+      "drvName": "PMC-Anemometer-ModbusMaster-V10",
+      "devProps": {
+        "chnIndex": 6,
+        "devIndex": 6
+      },
+      "devPath": {
+        "path": "采集通道7",
+        "name": "风速计"
+      }
+    },
+    {
+      "devName": "D4186449805599309824",
+      "devDesc": "光伏电站",
+      "devType": "ACQDEV",
+      "drvName": "PMC-Station-ModbusMaster-V10",
+      "devProps": {
+        "chnIndex": 6,
+        "devIndex": 7
+      },
+      "devPath": {
+        "path": "采集通道7",
+        "name": "光伏电站"
+      }
+    }
+  ],
+  "drivers": [
+    {
+      "drvName": "$SYS",
+      "points": [
+        {
+          "name": "CPU负载率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "内存容量",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "内存使用率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "存储容量",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "4"
+          }
+        },
+        {
+          "name": "存储剩余容量",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "5"
+          }
+        },
+        {
+          "name": "经度",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "6"
+          }
+        },
+        {
+          "name": "纬度",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "7"
+          }
+        },
+        {
+          "name": "DI1",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "1",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "DI2",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "1",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "DO1",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "1",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "DO2",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "1",
+            "pointNo": "4"
+          }
+        },
+        {
+          "name": "DO1遥合",
+          "type": "spc",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "DO1遥分",
+          "type": "spc",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "DO2遥合",
+          "type": "spc",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "DO2遥分",
+          "type": "spc",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "4"
+          }
+        },
+        {
+          "name": "DO1遥合/分",
+          "type": "spc",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "5"
+          }
+        },
+        {
+          "name": "DO2遥合/分",
+          "type": "spc",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "6"
+          }
+        }
+      ]
+    },
+    {
+      "drvName": "PMC-Temperature-ModbusMaster-V10",
+      "points": [
+        {
+          "name": "通信状态",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "通信状态",
+          "type": "dps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "1",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "环境温度",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "环境湿度",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "露点",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "3"
+          }
+        }
+      ]
+    },
+    {
+      "drvName": "PMC-Irradiator-ModbusMaster-V10",
+      "points": [
+        {
+          "name": "通信状态",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "通信状态",
+          "type": "dps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "1",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "瞬时辐射",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "日辐射总量",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "散辐射瞬时",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "散辐射日累计",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "4"
+          }
+        },
+        {
+          "name": "直辐射瞬时",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "5"
+          }
+        },
+        {
+          "name": "直辐射日累计",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "6"
+          }
+        }
+      ]
+    },
+    {
+      "drvName": "PMC-Anemometer-ModbusMaster-V10",
+      "points": [
+        {
+          "name": "通信状态",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "通信状态",
+          "type": "dps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "1",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "风向瞬时值",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "风速瞬时值",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "2分钟风速",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "10分钟风速",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "4"
+          }
+        }
+      ]
+    },
+    {
+      "drvName": "PMC-Station-ModbusMaster-V10",
+      "points": [
+        {
+          "name": "通信状态",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "通信状态",
+          "type": "dps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "1",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "装机容量",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "实时功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "年利用小时数据",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "累计发电量",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "4"
+          }
+        },
+        {
+          "name": "在线设备数",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "5"
+          }
+        },
+        {
+          "name": "运行设备数",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "6"
+          }
+        },
+        {
+          "name": "故障设备数",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "7"
+          }
+        },
+        {
+          "name": "日发电量",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "8"
+          }
+        },
+        {
+          "name": "月发电量",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "9"
+          }
+        },
+        {
+          "name": "年发电量",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "10"
+          }
+        },
+        {
+          "name": "日收益",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "11"
+          }
+        },
+        {
+          "name": "月收益",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "12"
+          }
+        },
+        {
+          "name": "年收益",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "13"
+          }
+        },
+        {
+          "name": "CO2减排",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "14"
+          }
+        }
+      ]
+    },
+    {
+      "drvName": "SG33CX-2P-CN-ModbusMaster-V10",
+      "points": [
+        {
+          "name": "通信状态",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "0",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "通信状态",
+          "type": "dps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "1",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "开机控制",
+          "type": "spc",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "关机控制",
+          "type": "spc",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "开关机控制",
+          "type": "spc",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "2",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "通讯故障",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "闭锁状态",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "逆变开关机状态",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "组串电压高",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "4"
+          }
+        },
+        {
+          "name": "直流电弧故障",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "5"
+          }
+        },
+        {
+          "name": "组串反接",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "6"
+          }
+        },
+        {
+          "name": "组串反灌",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "7"
+          }
+        },
+        {
+          "name": "组串功率异常",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "8"
+          }
+        },
+        {
+          "name": "AFCI自检失败",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "9"
+          }
+        },
+        {
+          "name": "电网相线对PE短路",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "10"
+          }
+        },
+        {
+          "name": "电网掉电",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "11"
+          }
+        },
+        {
+          "name": "电网欠压",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "12"
+          }
+        },
+        {
+          "name": "电网过压",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "13"
+          }
+        },
+        {
+          "name": "电网电压不平衡",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "14"
+          }
+        },
+        {
+          "name": "电网过频",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "15"
+          }
+        },
+        {
+          "name": "电网欠频",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "16"
+          }
+        },
+        {
+          "name": "电网频率不稳定",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "17"
+          }
+        },
+        {
+          "name": "输出过流",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "18"
+          }
+        },
+        {
+          "name": "输出电流直流分量过大",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "19"
+          }
+        },
+        {
+          "name": "残余电流异常",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "20"
+          }
+        },
+        {
+          "name": "系统接地异常",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "21"
+          }
+        },
+        {
+          "name": "绝缘阻抗低",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "22"
+          }
+        },
+        {
+          "name": "温度过高",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "23"
+          }
+        },
+        {
+          "name": "设备异常",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "24"
+          }
+        },
+        {
+          "name": "升级失败",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "25"
+          }
+        },
+        {
+          "name": "License到期",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "26"
+          }
+        },
+        {
+          "name": "监控单元故障",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "27"
+          }
+        },
+        {
+          "name": "功率采集器故障",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "28"
+          }
+        },
+        {
+          "name": "储能异常",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "29"
+          }
+        },
+        {
+          "name": "主动孤岛",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "30"
+          }
+        },
+        {
+          "name": "被动孤岛",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "31"
+          }
+        },
+        {
+          "name": "瞬时交流过压",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "32"
+          }
+        },
+        {
+          "name": "外部设备端口短路",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "33"
+          }
+        },
+        {
+          "name": "离网输出过载",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "34"
+          }
+        },
+        {
+          "name": "电池板配置异常",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "35"
+          }
+        },
+        {
+          "name": "待机",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "36"
+          }
+        },
+        {
+          "name": "并网",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "37"
+          }
+        },
+        {
+          "name": "正常并网",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "38"
+          }
+        },
+        {
+          "name": "限电降额并网",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "39"
+          }
+        },
+        {
+          "name": "自降额并网",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "40"
+          }
+        },
+        {
+          "name": "正常关机",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "41"
+          }
+        },
+        {
+          "name": "故障",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "42"
+          }
+        },
+        {
+          "name": "限电关机",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "43"
+          }
+        },
+        {
+          "name": "关机",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "44"
+          }
+        },
+        {
+          "name": "点检",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "45"
+          }
+        },
+        {
+          "name": "优化器故障",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "46"
+          }
+        },
+        {
+          "name": "内置PID工作异常",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "47"
+          }
+        },
+        {
+          "name": "输入组串对地电压高",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "48"
+          }
+        },
+        {
+          "name": "外部风扇异常",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "49"
+          }
+        },
+        {
+          "name": "储能反接",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "50"
+          }
+        },
+        {
+          "name": "并离网控制器异常",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "51"
+          }
+        },
+        {
+          "name": "组串丢失",
+          "type": "sps",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "3",
+            "pointNo": "52"
+          }
+        },
+        {
+          "name": "逆变器运行状态",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "逆变器开机时间",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "逆变器关机时间",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "机内温度",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "4"
+          }
+        },
+        {
+          "name": "DC输入总功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "5"
+          }
+        },
+        {
+          "name": "逆变器效率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "6"
+          }
+        },
+        {
+          "name": "二氧化碳减排",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "7"
+          }
+        },
+        {
+          "name": "PV1输入电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "8"
+          }
+        },
+        {
+          "name": "PV2输入电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "9"
+          }
+        },
+        {
+          "name": "PV3输入电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "10"
+          }
+        },
+        {
+          "name": "PV4输入电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "11"
+          }
+        },
+        {
+          "name": "PV1输入电流",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "12"
+          }
+        },
+        {
+          "name": "PV2输入电流",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "13"
+          }
+        },
+        {
+          "name": "PV3输入电流",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "14"
+          }
+        },
+        {
+          "name": "PV4输入电流",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "15"
+          }
+        },
+        {
+          "name": "PV1输入功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "16"
+          }
+        },
+        {
+          "name": "PV2输入功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "17"
+          }
+        },
+        {
+          "name": "PV3输入功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "18"
+          }
+        },
+        {
+          "name": "PV4输入功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "19"
+          }
+        },
+        {
+          "name": "电网AB线电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "20"
+          }
+        },
+        {
+          "name": "电网BC线电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "21"
+          }
+        },
+        {
+          "name": "电网CA线电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "22"
+          }
+        },
+        {
+          "name": "电网A相电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "23"
+          }
+        },
+        {
+          "name": "电网B相电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "24"
+          }
+        },
+        {
+          "name": "电网C相电压",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "25"
+          }
+        },
+        {
+          "name": "电网A相电流",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "26"
+          }
+        },
+        {
+          "name": "电网B相电流",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "27"
+          }
+        },
+        {
+          "name": "电网C相电流",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "28"
+          }
+        },
+        {
+          "name": "电网频率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "29"
+          }
+        },
+        {
+          "name": "有功功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "30"
+          }
+        },
+        {
+          "name": "无功功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "31"
+          }
+        },
+        {
+          "name": "功率因数",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "32"
+          }
+        },
+        {
+          "name": "日最大发电功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "33"
+          }
+        },
+        {
+          "name": "日最大发电日期",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "34"
+          }
+        },
+        {
+          "name": "月最大发电功率",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "35"
+          }
+        },
+        {
+          "name": "月最大发电日期",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "36"
+          }
+        },
+        {
+          "name": "年利用小时数",
+          "type": "mv",
+          "dataType": "float",
+          "unit": "",
+          "props": {
+            "groupNo": "4",
+            "pointNo": "37"
+          }
+        },
+        {
+          "name": "当前小时发电量",
+          "type": "bcr",
+          "dataType": "int64",
+          "unit": "kWh",
+          "props": {
+            "groupNo": "5",
+            "pointNo": "1"
+          }
+        },
+        {
+          "name": "当天发电量",
+          "type": "bcr",
+          "dataType": "int64",
+          "unit": "kWh",
+          "props": {
+            "groupNo": "5",
+            "pointNo": "2"
+          }
+        },
+        {
+          "name": "月发电量",
+          "type": "bcr",
+          "dataType": "int64",
+          "unit": "kWh",
+          "props": {
+            "groupNo": "5",
+            "pointNo": "3"
+          }
+        },
+        {
+          "name": "年发电量",
+          "type": "bcr",
+          "dataType": "int64",
+          "unit": "kWh",
+          "props": {
+            "groupNo": "5",
+            "pointNo": "4"
+          }
+        },
+        {
+          "name": "总发电量",
+          "type": "bcr",
+          "dataType": "int64",
+          "unit": "kWh",
+          "props": {
+            "groupNo": "5",
+            "pointNo": "5"
+          }
+        },
+        {
+          "name": "遥调测点0",
+          "type": "sp",
+          "dataType": "",
+          "unit": "",
+          "props": {
+            "groupNo": "6",
+            "pointNo": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

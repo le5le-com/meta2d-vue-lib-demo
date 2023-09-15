@@ -1,1 +1,1 @@
-const customPens = ["canvas","dom","path2d"];
+const customPens = ["canvas","dom","path2d","CircuitBreakerWithHandcart"];

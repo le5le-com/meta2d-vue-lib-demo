@@ -1,0 +1,180 @@
+{
+  "x": 0,
+  "y": 152,
+  "scale": 1.5802861685214626,
+  "origin": { "x": 0, "y": 0 },
+  "center": { "x": 0, "y": 0 },
+  "template": "5cff0589",
+  "locked": 0,
+  "version": "1.0.13",
+  "pens": [
+    {
+      "name": "square",
+      "id": "792bbc9e",
+      "children": [],
+      "anchors": [
+        { "id": "0", "penId": "792bbc9e", "x": 0.5, "y": 0 },
+        { "id": "1", "penId": "792bbc9e", "x": 1, "y": 0.5 },
+        { "id": "2", "penId": "792bbc9e", "x": 0.5, "y": 1 },
+        { "id": "3", "penId": "792bbc9e", "x": 0, "y": 0.5 }
+      ],
+      "template": false,
+      "properties": {
+        "extend": [
+          {
+            "attr": "resty",
+            "valueType": "color",
+            "value": "#f00",
+            "name": "文本",
+            "desc": "aaaa"
+          }
+        ],
+        "text": { "text": "正方形", "fontSize": 12 },
+        "basic": {
+          "width": 158.02861685214626,
+          "height": 158.02861685214626,
+          "x": 485.147853736089,
+          "y": 79.01430842607311,
+          "rotate": 0
+        },
+        "style": { "lineWidth": 1, "lineHeight": 1.5 }
+      },
+      "databindings": []
+    },
+    {
+      "name": "rectangle",
+      "id": "27672605",
+      "children": [],
+      "anchors": [
+        { "id": "0", "penId": "27672605", "x": 0.5, "y": 0 },
+        { "id": "1", "penId": "27672605", "x": 1, "y": 0.5 },
+        { "id": "2", "penId": "27672605", "x": 0.5, "y": 1 },
+        { "id": "3", "penId": "27672605", "x": 0, "y": 0.5 }
+      ],
+      "template": false,
+      "properties": {
+        "extend": [
+          {
+            "attr": "text",
+            "valueType": "number",
+            "value": 1234,
+            "name": "文本",
+            "desc": "rrr"
+          }
+        ],
+        "text": { "text": "圆角矩形", "fontSize": 12 },
+        "basic": {
+          "width": 316.0572337042925,
+          "height": 79.01430842607313,
+          "x": 63.21144674085852,
+          "y": 0,
+          "rotate": 0
+        },
+        "style": {
+          "color": "#f00",
+          "borderRadius": 0.1,
+          "lineWidth": 1,
+          "lineHeight": 1.5
+        }
+      },
+      "databindings": [
+        {
+          "source": {
+            "dataId": "D4186449770908221440:mv:2分钟风速",
+            "name": "采集通道7.风速计.2分钟风速"
+          },
+          "target": "text"
+        }
+      ]
+    },
+    {
+      "name": "text",
+      "databindings": [],
+      "properties": {
+        "extend": [
+          {
+            "attr": "text",
+            "desc": "",
+            "value": "meta2d",
+            "name": "文本",
+            "valueType": "text"
+          }
+        ],
+        "text": { "text": "meta2d", "fontSize": 12 },
+        "basic": {
+          "width": 252.84578696343402,
+          "height": 47.40858505564388,
+          "x": 741.154213036566,
+          "y": 295.5135135135135,
+          "rotate": 0
+        },
+        "style": { "lineWidth": 1, "lineHeight": 1.5 }
+      },
+      "id": "52bcea1a",
+      "children": [],
+      "anchors": [
+        { "id": "0", "penId": "52bcea1a", "x": 0.5, "y": 0 },
+        { "id": "1", "penId": "52bcea1a", "x": 1, "y": 0.5 },
+        { "id": "2", "penId": "52bcea1a", "x": 0.5, "y": 1 },
+        { "id": "3", "penId": "52bcea1a", "x": 0, "y": 0.5 }
+      ],
+      "template": false
+    },
+    {
+      "name": "pentagon",
+      "id": "5072e01",
+      "children": [],
+      "anchors": [
+        { "id": "0", "penId": "5072e01", "x": 0.5, "y": 0 },
+        { "id": "1", "penId": "5072e01", "x": 1, "y": 0.4 },
+        { "id": "2", "penId": "5072e01", "x": 0.8, "y": 1 },
+        { "id": "3", "penId": "5072e01", "x": 0.2, "y": 1 },
+        { "id": "4", "penId": "5072e01", "x": 0, "y": 0.4 }
+      ],
+      "template": false,
+      "properties": {
+        "extend": [],
+        "style": { "edge": 9, "lineWidth": 1, "lineHeight": 1.5 },
+        "text": { "text": "五边形", "fontSize": 12 },
+        "basic": {
+          "width": 158.02861685214626,
+          "height": 158.02861685214626,
+          "x": 824.9093799682034,
+          "y": 23.704292527821934,
+          "rotate": 0
+        }
+      },
+      "databindings": [],
+      "edge": 9
+    },
+    {
+      "name": "image",
+      "id": "68eb4362",
+      "children": [],
+      "anchors": [
+        { "id": "0", "penId": "68eb4362", "x": 0.5, "y": 0 },
+        { "id": "1", "penId": "68eb4362", "x": 1, "y": 0.5 },
+        { "id": "2", "penId": "68eb4362", "x": 0.5, "y": 1 },
+        { "id": "3", "penId": "68eb4362", "x": 0, "y": 0.5 }
+      ],
+      "template": false,
+      "properties": {
+        "extend": [],
+        "text": { "text": "", "fontSize": 12 },
+        "basic": {
+          "width": 158.02861685214626,
+          "height": 158.02861685214626,
+          "x": 0,
+          "y": 146.966613672496,
+          "rotate": 0
+        },
+        "style": {
+          "image": "/img/weitu.svg",
+          "lineWidth": 1,
+          "lineHeight": 1.5
+        }
+      },
+      "databindings": []
+    }
+  ]
+}

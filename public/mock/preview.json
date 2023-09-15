@@ -1,0 +1,3348 @@
+{
+  "x": -5207,
+  "y": -1910,
+  "scale": 1,
+  "_id":"uhs",
+  "pens": [
+    {
+      "anchors": [],
+      "center": {
+        "x": 5841.863666235724,
+        "y": 2279.210146593599
+      },
+      "children": [],
+      "ex": 6481.863666235724,
+      "ey": 2679.210146593599,
+      "fontSize": 12,
+      "height": 800.0000000000001,
+      "id": "33132c5",
+      "image": "viewProject/assets/share_background.png",
+      "isBottom": true,
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "square",
+      "rotate": 0,
+      "width": 1279.9999999999995,
+      "x": 5201.863666235724,
+      "y": 1879.2101465935987
+    },
+    {
+      "text": "",
+      "width": 320,
+      "height": 264,
+      "name": "square",
+      "form": [
+        {
+          "key": "text",
+          "type": "text",
+          "name": "文本"
+        }
+      ],
+      "id": "1636b04",
+      "children": [],
+      "x": 6141.863666235724,
+      "y": 2399.2101465935984,
+      "lineWidth": 0,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [
+        {
+          "id": "0",
+          "penId": "1636b04",
+          "x": 0.5,
+          "y": 0
+        },
+        {
+          "id": "1",
+          "penId": "1636b04",
+          "x": 1,
+          "y": 0.5
+        },
+        {
+          "id": "2",
+          "penId": "1636b04",
+          "x": 0.5,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "penId": "1636b04",
+          "x": 0,
+          "y": 0.5
+        }
+      ],
+      "rotate": 0,
+      "image": "viewProject/assets/shere_free_background.png",
+      "isBottom": true
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5871.863666235724,
+        "y": 2179.210146593598
+      },
+      "children": [],
+      "ex": 6111.863666235724,
+      "ey": 2389.210146593598,
+      "fontSize": 12,
+      "height": 420.00000000000006,
+      "id": "25a6a7e",
+      "image": "viewProject/assets/share_main.png",
+      "isBottom": true,
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "width": 460.00000000000006,
+      "x": 5641.863666235724,
+      "y": 1969.2101465935978
+    },
+    {
+      "activeTextColor": "rgba(255,255,255,1)",
+      "anchors": [],
+      "center": {
+        "x": 5841.863666235724,
+        "y": 1924.2101465935987
+      },
+      "children": [],
+      "ex": 6481.863666235724,
+      "ey": 1969.2101465935987,
+      "fontSize": 26,
+      "height": 90.00000000000001,
+      "hoverTextColor": "rgba(255,255,255,1)",
+      "id": "25a822",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "CET光伏演示项目",
+      "textColor": "rgba(255,255,255,1)",
+      "textTop": -25,
+      "width": 1279.9999999999995,
+      "x": 5201.863666235724,
+      "y": 1879.2101465935987
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5282.863666235724,
+        "y": 2324.210146593598
+      },
+      "children": [],
+      "ex": 5363.863666235724,
+      "ey": 2679.210146593598,
+      "fontSize": 12,
+      "height": 710.0000000000001,
+      "id": "e651d5e",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "width": 162,
+      "x": 5201.863666235724,
+      "y": 1969.2101465935978
+    },
+    {
+      "isBottom": true,
+      "anchors": [],
+      "center": {
+        "x": 5271.863666235724,
+        "y": 1998.2101465935978
+      },
+      "children": [],
+      "ex": 5341.863666235724,
+      "ey": 2027.2101465935978,
+      "fontSize": 16,
+      "height": 57.999999999999986,
+      "id": "d5b5b84",
+      "image": "viewProject/assets/share_selected_menu.png",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "text": "全站总览",
+      "width": 140.00000000000006,
+      "x": 5201.863666235724,
+      "y": 1969.2101465935978,
+      "textTop": -15,
+      "activeTextColor": "rgba(255,255,255,1)",
+      "hoverTextColor": "rgba(255,255,255,1)",
+      "textColor": "rgba(255,255,255,1)"
+    },
+    {
+      "isBottom": true,
+      "anchors": [],
+      "center": {
+        "x": 5271.363666235724,
+        "y": 2064.210146593599
+      },
+      "children": [],
+      "ex": 5340.863666235724,
+      "ey": 2093.210146593599,
+      "fontSize": 16,
+      "height": 57.999999999999986,
+      "id": "8a1209f",
+      "image": "viewProject/assets/share_menu.png",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "text": "主接线图",
+      "width": 139.00000000000003,
+      "x": 5201.863666235724,
+      "y": 2035.2101465935991,
+      "textTop": -15,
+      "activeTextColor": "rgba(255,255,255,1)",
+      "hoverTextColor": "rgba(255,255,255,1)",
+      "textColor": "rgba(255,255,255,1)",
+      "events": [
+        {
+          "where": {
+            "type": null
+          },
+          "name": "click",
+          "action": 7,
+          "value": "I-menu",
+          "params": "wire"
+        }
+      ]
+    },
+    {
+      "isBottom": true,
+      "anchors": [],
+      "center": {
+        "x": 5271.363666235724,
+        "y": 2130.2101465935984
+      },
+      "children": [],
+      "ex": 5340.863666235724,
+      "ey": 2159.2101465935984,
+      "fontSize": 16,
+      "height": 57.999999999999986,
+      "id": "3d26c9aa",
+      "image": "viewProject/assets/share_menu.png",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "text": "运行状态",
+      "width": 139.00000000000003,
+      "x": 5201.863666235724,
+      "y": 2101.2101465935984,
+      "textTop": -15,
+      "activeTextColor": "rgba(255,255,255,1)",
+      "hoverTextColor": "rgba(255,255,255,1)",
+      "textColor": "rgba(255,255,255,1)",
+      "events": [
+        {
+          "where": {
+            "type": null
+          },
+          "name": "click",
+          "action": 7,
+          "value": "I-menu",
+          "params": "status1"
+        }
+      ]
+    },
+    {
+      "isBottom": true,
+      "anchors": [],
+      "center": {
+        "x": 5271.363666235724,
+        "y": 2196.2101465935975
+      },
+      "children": [],
+      "ex": 5340.863666235724,
+      "ey": 2225.2101465935975,
+      "fontSize": 16,
+      "height": 57.999999999999986,
+      "id": "88e2ee",
+      "image": "viewProject/assets/share_menu.png",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "text": "报表数据",
+      "width": 139.00000000000003,
+      "x": 5201.863666235724,
+      "y": 2167.2101465935975,
+      "textTop": -15,
+      "activeTextColor": "rgba(255,255,255,1)",
+      "hoverTextColor": "rgba(255,255,255,1)",
+      "textColor": "rgba(255,255,255,1)",
+      "events": [
+        {
+          "where": {
+            "type": null
+          },
+          "name": "click",
+          "action": 7,
+          "value": "I-menu",
+          "params": "table1"
+        }
+      ]
+    },
+    {
+      "isBottom": true,
+      "anchors": [],
+      "center": {
+        "x": 5271.363666235724,
+        "y": 2262.2101465935966
+      },
+      "children": [],
+      "ex": 5340.863666235724,
+      "ey": 2291.2101465935966,
+      "fontSize": 16,
+      "height": 57.999999999999986,
+      "id": "a75150f",
+      "image": "viewProject/assets/share_menu.png",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "text": "曲线分析",
+      "width": 139.00000000000003,
+      "x": 5201.863666235724,
+      "y": 2233.2101465935966,
+      "activeTextColor": "rgba(255,255,255,1)",
+      "textTop": -15,
+      "hoverTextColor": "rgba(255,255,255,1)",
+      "textColor": "rgba(255,255,255,1)",
+      "events": [
+        {
+          "where": {
+            "type": null
+          },
+          "name": "click",
+          "action": 7,
+          "value": "I-menu",
+          "params": "wave"
+        }
+      ]
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5525.863666235722,
+        "y": 1911.2101465935982
+      },
+      "children": [],
+      "ex": 5669.863666235722,
+      "ey": 1915.2101465935982,
+      "fontSize": 12,
+      "height": 7.999999999999994,
+      "id": "9ec1da",
+      "image": "viewProject/assets/share_left_name.svg",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "width": 288.00000000000006,
+      "x": 5381.863666235722,
+      "y": 1907.2101465935982
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6160.863666235722,
+        "y": 1911.2101465935982
+      },
+      "children": [],
+      "ex": 6304.863666235722,
+      "ey": 1915.2101465935982,
+      "fontSize": 12,
+      "height": 7.999999999999994,
+      "id": "3dce8df6",
+      "image": "viewProject/assets/share_right_name.svg",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "width": 288.00000000000006,
+      "x": 6016.863666235722,
+      "y": 1907.2101465935982
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5489.863666235724,
+        "y": 2316.2101465935975
+      },
+      "children": [],
+      "ex": 5599.863666235724,
+      "ey": 2663.2101465935975,
+      "fontSize": 12,
+      "height": 694,
+      "id": "27e15a27",
+      "image": "viewProject/assets/shere_free_background.png",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "width": 220.00000000000006,
+      "x": 5379.863666235724,
+      "y": 1969.2101465935978,
+      "isBottom": true
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5871.863666235724,
+        "y": 2533.2101465935984
+      },
+      "children": [],
+      "ex": 6111.863666235724,
+      "ey": 2663.2101465935984,
+      "fontSize": 12,
+      "height": 264.00000000000057,
+      "id": "58291c17",
+      "image": "viewProject/assets/shere_free_background.png",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "width": 480.00000000000006,
+      "x": 5631.863666235724,
+      "y": 2399.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6301.863666235722,
+        "y": 2316.2101465935975
+      },
+      "children": [],
+      "ex": 6461.863666235722,
+      "ey": 2663.2101465935975,
+      "fontSize": 12,
+      "height": 400,
+      "id": "7bc73caf",
+      "image": "viewProject/assets/shere_free_background.png",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "image",
+      "rotate": 0,
+      "width": 319.9999999999999,
+      "x": 6141.863666235722,
+      "y": 1969.2101465935978,
+      "connectedLines": [
+        {
+          "lineId": "4d98300",
+          "lineAnchor": "b8c317f",
+          "anchor": "3"
+        }
+      ],
+      "isBottom": true
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6429.863666235722,
+        "y": 1903.2101465935984
+      },
+      "children": [],
+      "color": "rgba(255,255,255,0)",
+      "ex": 6465.863666235722,
+      "ey": 1919.2101465935984,
+      "fontSize": 12,
+      "height": 31.999999999999975,
+      "id": "7dd6c4a9",
+      "image": "viewProject/assets/logo2.svg",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "square",
+      "rotate": 0,
+      "width": 72.00000000000001,
+      "x": 6393.863666235722,
+      "y": 1887.2101465935984
+    },
+    {
+      "anchors": [],
+      "background": "rgba(255,255,255,0)",
+      "center": {
+        "x": 5451.527169725694,
+        "y": 1994.2101465935987
+      },
+      "children": [],
+      "ex": 5499.527169725694,
+      "ey": 2004.2101465935987,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "087d7d4",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "逆变器状态",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "textLeft": 0.03,
+      "width": 95.99999999999997,
+      "x": 5427.863666235724,
+      "y": 1984.2101465935987
+    },
+    {
+      "anchors": [],
+      "background": "rgba(255,255,255,0)",
+      "center": {
+        "x": 6258.5271697256985,
+        "y": 1994.2101465935987
+      },
+      "children": [],
+      "ellipsis": false,
+      "ex": 6356.5271697256985,
+      "ey": 2004.2101465935987,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "bd6d7e2",
+      "lineHeight": 1,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "发电量&收益信息",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "textLeft": 0.03,
+      "width": 196.0000000000001,
+      "x": 6177.863666235724,
+      "y": 1984.2101465935987
+    },
+    {
+      "anchors": [],
+      "background": "rgba(255,255,255,0)",
+      "center": {
+        "x": 6208.5271697256985,
+        "y": 2423.210146593598
+      },
+      "children": [],
+      "ex": 6256.5271697256985,
+      "ey": 2433.210146593598,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "24d3b327",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "气象信息",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "textLeft": 0.03,
+      "width": 96,
+      "x": 6177.863666235724,
+      "y": 2413.210146593598
+    },
+    {
+      "anchors": [],
+      "background": "rgba(255,255,255,0)",
+      "center": {
+        "x": 5742.527169725694,
+        "y": 2425.210146593596
+      },
+      "children": [],
+      "ex": 5806.527169725694,
+      "ey": 2435.210146593596,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "6f0c7a70",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "发电功率趋势",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "textLeft": 0.03,
+      "width": 127.9999999999999,
+      "x": 5678.527169725694,
+      "y": 2415.210146593596
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6246.527169725697,
+        "y": 2074.2101465936003
+      },
+      "children": [],
+      "ex": 6310.527169725697,
+      "ey": 2084.2101465936003,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "77e8ec6a",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "月发电量：",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 6182.527169725697,
+      "y": 2064.2101465936003
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6246.527169725697,
+        "y": 2117.210146593602
+      },
+      "children": [],
+      "ex": 6310.527169725697,
+      "ey": 2127.210146593602,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "404bfa47",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "年发电量：",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 6182.527169725697,
+      "y": 2107.210146593602
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6230.527169725697,
+        "y": 2160.2101465935993
+      },
+      "children": [],
+      "ex": 6278.527169725697,
+      "ey": 2170.2101465935993,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "6edbf18",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "日收益：",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 96,
+      "x": 6182.527169725697,
+      "y": 2150.2101465935993
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6230.527169725697,
+        "y": 2203.2101465935966
+      },
+      "children": [],
+      "ex": 6278.527169725697,
+      "ey": 2213.2101465935966,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "735c6ce4",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "月收益：",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 96,
+      "x": 6182.527169725697,
+      "y": 2193.2101465935966
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6230.527169725697,
+        "y": 2246.2101465935984
+      },
+      "children": [],
+      "ex": 6278.527169725697,
+      "ey": 2256.2101465935984,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "4d3509ac",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "年收益：",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 96,
+      "x": 6182.527169725697,
+      "y": 2236.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6246.527169725697,
+        "y": 2332.2101465936
+      },
+      "children": [],
+      "ex": 6310.527169725697,
+      "ey": 2342.2101465936,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "d8974c7",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "CO₂减排：",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 6182.527169725697,
+      "y": 2322.2101465936
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5487.3706221066495,
+        "y": 2188.2101465935975
+      },
+      "children": [],
+      "ex": 5551.3706221066495,
+      "ey": 2204.2101465935975,
+      "fontSize": 17,
+      "height": 31.999999999999975,
+      "id": "922f9ac",
+      "lineHeight": 1.7,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "在线设备数",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 5423.3706221066495,
+      "y": 2172.2101465935975
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6246.527169725697,
+        "y": 2031.210146593599
+      },
+      "children": [],
+      "ex": 6310.527169725697,
+      "ey": 2041.210146593599,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "36e7133",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "日发电量:",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 6182.527169725697,
+      "y": 2021.210146593599
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6264.5271697256985,
+        "y": 2463.210146593598
+      },
+      "children": [],
+      "ex": 6328.5271697256985,
+      "ey": 2473.210146593598,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "2cf83152",
+      "lineHeight": 1,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "日辐射总量",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 127.9999999999999,
+      "x": 6200.5271697256985,
+      "y": 2453.210146593598
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6238.5271697256985,
+        "y": 2613.1526069110582
+      },
+      "children": [],
+      "ex": 6276.5271697256985,
+      "ey": 2622.6526069110582,
+      "fontSize": 14,
+      "height": 19.00000000000001,
+      "id": "5c92f045",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "环境温度",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 76,
+      "x": 6200.5271697256985,
+      "y": 2603.6526069110582
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6232.5271697256985,
+        "y": 2537.210146593595
+      },
+      "children": [],
+      "ex": 6264.5271697256985,
+      "ey": 2547.210146593595,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "679499af",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "露点",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 63.99999999999995,
+      "x": 6200.5271697256985,
+      "y": 2527.210146593595
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6383.277169725692,
+        "y": 2461.710146593598
+      },
+      "children": [],
+      "ex": 6421.277169725692,
+      "ey": 2470.210146593598,
+      "fontSize": 14,
+      "height": 17,
+      "id": "cd69458",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "瞬时辐射",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 76,
+      "x": 6345.277169725692,
+      "y": 2453.210146593598
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6382.402169725692,
+        "y": 2535.710146593595
+      },
+      "children": [],
+      "ex": 6419.527169725692,
+      "ey": 2544.210146593595,
+      "fontSize": 14,
+      "height": 17,
+      "id": "6b507560",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "环境湿度",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 74.2499999999998,
+      "x": 6345.277169725692,
+      "y": 2527.210146593595
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6384.902169725692,
+        "y": 2613.6526069110596
+      },
+      "children": [],
+      "ex": 6424.527169725692,
+      "ey": 2622.6526069110596,
+      "fontSize": 14,
+      "height": 18.000000000000004,
+      "id": "e642383",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "风速",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 79.2499999999997,
+      "x": 6345.277169725692,
+      "y": 2604.6526069110596
+    },
+    {
+      "anchors": [],
+      "beforeScale": 1,
+      "center": {
+        "x": 5863.527169725694,
+        "y": 2549.210146593598
+      },
+      "children": [],
+      "disableAnchor": true,
+      "echart_type": "realTime_wave",
+      "echarts": {
+        "max": 24,
+        "option": {
+          "grid": {
+            "bottom": 40,
+            "left": 30.000000000000007,
+            "right": 30.000000000000007,
+            "top": 30.000000000000007
+          },
+          "legend": {
+            "textStyle": {
+              "color": "white"
+            },
+            "x": "center",
+            "y": "top"
+          },
+          "series": [
+            {
+              "data": [],
+              "name": "总发电功率(kW)",
+              "smooth": false,
+              "type": "line"
+            },
+            {
+              "data": [],
+              "name": "总瞬时辐射(MJ/m²)",
+              "smooth": false,
+              "type": "line",
+              "yAxisIndex": 1
+            }
+          ],
+          "xAxis": {
+            "axisLabel": {
+              "color": "white",
+              "fontSize": 10
+            },
+            "data": [
+              "00",
+              "01",
+              "02",
+              "03",
+              "04",
+              "05",
+              "06",
+              "07",
+              "08",
+              "09",
+              "10",
+              "11",
+              "12",
+              "13",
+              "14",
+              "15",
+              "16",
+              "17",
+              "18",
+              "19",
+              "20",
+              "21",
+              "22",
+              "23"
+            ],
+            "type": "category"
+          },
+          "yAxis": [
+            {
+              "axisLabel": {
+                "color": "white",
+                "fontSize": 12.000000000000002
+              },
+              "name": "kW",
+              "nameTextStyle": {
+                "color": "white"
+              },
+              "splitLine": {
+                "show": false
+              },
+              "type": "value"
+            },
+            {
+              "axisLabel": {
+                "color": "white",
+                "fontSize": 12.000000000000002
+              },
+              "name": "MJ/m²",
+              "nameTextStyle": {
+                "color": "white"
+              },
+              "splitLine": {
+                "show": false
+              },
+              "type": "value"
+            }
+          ]
+        },
+        "replaceMode": 0
+      },
+      "ex": 6093.527169725694,
+      "ey": 2659.210146593598,
+      "fontSize": 12,
+      "form": [
+        {
+          "dataIds": [
+            {
+              "dataId": "D4186449805599309824:mv:实时功率",
+              "name": "采集通道7.光伏电站.实时功率"
+            },
+            {
+              "dataId": "D4186449805599309824:mv:装机容量",
+              "name": "采集通道7.光伏电站.装机容量"
+            }
+          ],
+          "isTime": true,
+          "isYCategory": false,
+          "key": "dataY",
+          "multiple": true,
+          "name": "数据",
+          "placeholder": "仅绑定变量",
+          "readonly": true,
+          "type": "text"
+        },
+        {
+          "key": "echarts",
+          "name": "echarts",
+          "type": "code"
+        },
+        {
+          "key": "echarts",
+          "key2": "max",
+          "name": "最大数量",
+          "placeholder": "x",
+          "type": "number"
+        }
+      ],
+      "height": 219.9999999999995,
+      "id": "1f8d7fa5",
+      "length": 764.8529270389175,
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "echarts",
+      "rotate": 0,
+      "width": 460.0000000000001,
+      "x": 5641.863666235724,
+      "y": 2439.2101465935984,
+      "text": ""
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5716.527169725694,
+        "y": 2073.2101465936
+      },
+      "children": [],
+      "ex": 5764.527169725694,
+      "ey": 2083.2101465936,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "53605f3a",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "装机容量",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 96,
+      "x": 5668.527169725694,
+      "y": 2063.2101465936
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5711.527169725694,
+        "y": 2236.2101465935984
+      },
+      "children": [],
+      "ex": 5759.527169725694,
+      "ey": 2246.2101465935984,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "45f9910",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "实时功率",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 96,
+      "x": 5663.527169725694,
+      "y": 2226.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6064.527169725692,
+        "y": 2109.2101465936003
+      },
+      "children": [],
+      "ex": 6128.527169725692,
+      "ey": 2119.2101465936003,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "8183879",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "年利用小时数",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 6000.527169725692,
+      "y": 2099.2101465936003
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5897.527169725701,
+        "y": 2026.2101465935993
+      },
+      "children": [],
+      "ex": 5961.527169725701,
+      "ey": 2036.2101465935993,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "13ac4860",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "累计发电量",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 5833.527169725701,
+      "y": 2016.2101465935993
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5754.933419725694,
+        "y": 2052.210146593601
+      },
+      "children": [],
+      "ex": 5789.339669725694,
+      "ey": 2062.210146593601,
+      "fontSize": 16,
+      "height": 19.99999999999999,
+      "id": "9251c14",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "kWh",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 68.81250000000026,
+      "x": 5720.527169725694,
+      "y": 2042.2101465936012
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5756.745919725698,
+        "y": 2216.2101465935984
+      },
+      "children": [],
+      "ex": 5791.152169725698,
+      "ey": 2226.2101465935984,
+      "fontSize": 16,
+      "height": 19.99999999999999,
+      "id": "bdef4d",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "kW",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 68.81250000000026,
+      "x": 5722.339669725698,
+      "y": 2206.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6093.183419725695,
+        "y": 2089.410612794071
+      },
+      "children": [],
+      "ex": 6127.589669725695,
+      "ey": 2099.410612794071,
+      "fontSize": 16,
+      "height": 19.99999999999999,
+      "id": "35d05a18",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "h",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 68.81250000000026,
+      "x": 6058.777169725695,
+      "y": 2079.410612794071
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5937.7411578209285,
+        "y": 2002.1652192986744
+      },
+      "children": [],
+      "ex": 5972.1474078209285,
+      "ey": 2012.1652192986744,
+      "fontSize": 16,
+      "height": 19.99999999999999,
+      "id": "b6d343b",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "kWh",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 68.81250000000026,
+      "x": 5903.3349078209285,
+      "y": 1992.1652192986744
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6308.5271697256985,
+        "y": 2028.7101465935991
+      },
+      "children": [],
+      "ex": 6356.5271697256985,
+      "ey": 2041.2101465935991,
+      "fontSize": 18,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:日发电量",
+            "name": "采集通道7.光伏电站.日发电量"
+          },
+          "key": "text",
+          "name": "日发电量",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "3324da8b",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 37,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 95.99999999999997,
+      "x": 6260.5271697256985,
+      "y": 2016.2101465935991
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6308.5271697256985,
+        "y": 2072.7101465935993
+      },
+      "children": [],
+      "ex": 6356.5271697256985,
+      "ey": 2085.2101465935993,
+      "fontSize": 18,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:月发电量",
+            "name": "采集通道7.光伏电站.月发电量"
+          },
+          "key": "text",
+          "name": "月发电量",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "b6e65eb",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 85,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 95.99999999999997,
+      "x": 6260.5271697256985,
+      "y": 2060.2101465935993
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6308.5271697256985,
+        "y": 2115.7101465936
+      },
+      "children": [],
+      "ex": 6356.5271697256985,
+      "ey": 2128.2101465936,
+      "fontSize": 18,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:年发电量",
+            "name": "采集通道7.光伏电站.年发电量"
+          },
+          "key": "text",
+          "name": "年发电量",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "41ff68f2",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 32,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 95.99999999999997,
+      "x": 6260.5271697256985,
+      "y": 2103.2101465936
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6394.527169725696,
+        "y": 2030.210146593598
+      },
+      "children": [],
+      "ex": 6415.527169725696,
+      "ey": 2041.210146593598,
+      "fontSize": 16,
+      "height": 22,
+      "id": "3d2e8b91",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "kWh",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 42.000000000000014,
+      "x": 6373.527169725696,
+      "y": 2019.210146593598
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6396.299714368553,
+        "y": 2073.210146593602
+      },
+      "children": [],
+      "ex": 6419.072259011411,
+      "ey": 2084.210146593602,
+      "fontSize": 16,
+      "height": 22,
+      "id": "2d35251a",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "kWh",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 45.54508928571498,
+      "x": 6373.527169725696,
+      "y": 2062.210146593602
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6396.299714368553,
+        "y": 2116.2101465935993
+      },
+      "children": [],
+      "ex": 6419.072259011411,
+      "ey": 2127.2101465935993,
+      "fontSize": 16,
+      "height": 22,
+      "id": "ddbaf86",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "kWh",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 45.54508928571498,
+      "x": 6373.527169725696,
+      "y": 2105.2101465935993
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6308.5271697256985,
+        "y": 2158.7101465935984
+      },
+      "children": [],
+      "ex": 6356.5271697256985,
+      "ey": 2171.2101465935984,
+      "fontSize": 18,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:日收益",
+            "name": "采集通道7.光伏电站.日收益"
+          },
+          "key": "text",
+          "name": "日收益",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "04f461",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 80,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 95.99999999999997,
+      "x": 6260.5271697256985,
+      "y": 2146.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6308.5271697256985,
+        "y": 2201.7101465936003
+      },
+      "children": [],
+      "ex": 6356.5271697256985,
+      "ey": 2214.2101465936003,
+      "fontSize": 18,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:月收益",
+            "name": "采集通道7.光伏电站.月收益"
+          },
+          "key": "text",
+          "name": "月收益",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "721bc737",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 15,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 95.99999999999997,
+      "x": 6260.5271697256985,
+      "y": 2189.2101465936003
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6308.5271697256985,
+        "y": 2242.7101465935966
+      },
+      "children": [],
+      "ex": 6356.5271697256985,
+      "ey": 2255.2101465935966,
+      "fontSize": 18,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:年收益",
+            "name": "采集通道7.光伏电站.年收益"
+          },
+          "key": "text",
+          "name": "年收益",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "f4565ff",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 61,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 95.99999999999997,
+      "x": 6260.5271697256985,
+      "y": 2230.2101465935966
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6308.5271697256985,
+        "y": 2330.7101465935984
+      },
+      "children": [],
+      "ex": 6356.5271697256985,
+      "ey": 2343.2101465935984,
+      "fontSize": 18,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:CO2减排",
+            "name": "采集通道7.光伏电站.CO2减排"
+          },
+          "key": "text",
+          "name": "CO2减排",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "d1b2200",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 95,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 95.99999999999997,
+      "x": 6260.5271697256985,
+      "y": 2318.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6396.299714368553,
+        "y": 2159.2101465936
+      },
+      "children": [],
+      "ex": 6419.072259011411,
+      "ey": 2170.2101465936,
+      "fontSize": 16,
+      "height": 22,
+      "id": "4a54cd59",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "元",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 45.54508928571498,
+      "x": 6373.527169725696,
+      "y": 2148.2101465936
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6396.299714368553,
+        "y": 2202.2101465935984
+      },
+      "children": [],
+      "ex": 6419.072259011411,
+      "ey": 2213.2101465935984,
+      "fontSize": 16,
+      "height": 22,
+      "id": "cd50386",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "元",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 45.54508928571498,
+      "x": 6373.527169725696,
+      "y": 2191.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6396.299714368553,
+        "y": 2245.2101465935993
+      },
+      "children": [],
+      "ex": 6419.072259011411,
+      "ey": 2256.2101465935993,
+      "fontSize": 16,
+      "height": 22,
+      "id": "aead5e0",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "元",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 45.54508928571498,
+      "x": 6373.527169725696,
+      "y": 2234.2101465935993
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6396.299714368553,
+        "y": 2331.2101465935966
+      },
+      "children": [],
+      "ex": 6419.072259011411,
+      "ey": 2342.2101465935966,
+      "fontSize": 16,
+      "height": 22,
+      "id": "c7bd6f4",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "t",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 45.54508928571498,
+      "x": 6373.527169725696,
+      "y": 2320.2101465935966
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6257.924788773319,
+        "y": 2487.710146593596
+      },
+      "children": [],
+      "ex": 6293.924788773319,
+      "ey": 2500.210146593596,
+      "fontSize": 12,
+      "height": 25.000000000000004,
+      "id": "121dcb70",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "kWh/m²",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 72.00000000000001,
+      "x": 6221.924788773319,
+      "y": 2475.210146593596
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6201.777169725693,
+        "y": 2487.710146593596
+      },
+      "children": [],
+      "ex": 6222.027169725693,
+      "ey": 2500.210146593596,
+      "fontSize": 18,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449699848323072:mv:日辐射总量",
+            "name": "采集通道7.辐照仪.日辐射总量"
+          },
+          "key": "text",
+          "name": "日辐射总量",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "b7d43a3",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": -7,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 40.4999999999998,
+      "x": 6181.527169725693,
+      "y": 2475.210146593596
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6222.777169725696,
+        "y": 2637.495860879311
+      },
+      "children": [],
+      "ex": 6243.027169725696,
+      "ey": 2652.495860879311,
+      "fontSize": 16,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449636367532032:mv:环境温度",
+            "name": "采集通道7.温湿度计.环境温度"
+          },
+          "key": "text",
+          "name": "环境温度",
+          "type": "text"
+        }
+      ],
+      "height": 30,
+      "id": "750792fc",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 41,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 40.4999999999998,
+      "x": 6202.527169725696,
+      "y": 2622.495860879311
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6256.7974078209345,
+        "y": 2635.995860879308
+      },
+      "children": [],
+      "ex": 6272.7974078209345,
+      "ey": 2648.495860879308,
+      "fontSize": 16,
+      "height": 25.000000000000004,
+      "id": "4c0285d",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "°C",
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 31.999999999999975,
+      "x": 6240.7974078209345,
+      "y": 2623.495860879308
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6222.777169725696,
+        "y": 2561.710146593599
+      },
+      "children": [],
+      "ex": 6243.027169725696,
+      "ey": 2574.210146593599,
+      "fontSize": 16,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449636367532032:mv:露点",
+            "name": "采集通道7.温湿度计.露点"
+          },
+          "key": "text",
+          "name": "露点",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "bc67bcd",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 88,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 40.4999999999998,
+      "x": 6202.527169725696,
+      "y": 2549.210146593599
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6255.527169725695,
+        "y": 2561.710146593599
+      },
+      "children": [],
+      "ex": 6271.527169725695,
+      "ey": 2574.210146593599,
+      "fontSize": 16,
+      "height": 25.000000000000004,
+      "id": "12d5341",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "°C",
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 31.999999999999975,
+      "x": 6239.527169725695,
+      "y": 2549.210146593599
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6360.424714368548,
+        "y": 2637.995860879311
+      },
+      "children": [],
+      "ex": 6384.174714368548,
+      "ey": 2653.495860879311,
+      "fontSize": 16,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449770908221440:mv:10分钟风速",
+            "name": "10分钟风速"
+          },
+          "key": "text",
+          "name": "风速",
+          "type": "text"
+        }
+      ],
+      "height": 31.000000000000014,
+      "id": "35610f3",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 22,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 47.499999999999844,
+      "x": 6336.674714368548,
+      "y": 2622.495860879311
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6359.924714368551,
+        "y": 2562.210146593595
+      },
+      "children": [],
+      "ex": 6380.174714368551,
+      "ey": 2577.210146593595,
+      "fontSize": 16,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449636367532032:mv:环境湿度",
+            "name": "采集通道7.温湿度计.环境湿度"
+          },
+          "key": "text",
+          "name": "环境湿度",
+          "type": "text"
+        }
+      ],
+      "height": 30,
+      "id": "08a2878",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 31,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 40.4999999999998,
+      "x": 6339.674714368551,
+      "y": 2547.210146593595
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6405.023747106655,
+        "y": 2562.210146593595
+      },
+      "children": [],
+      "ex": 6421.023747106655,
+      "ey": 2577.210146593595,
+      "fontSize": 12,
+      "height": 30,
+      "id": "d1b82cf",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "%RH",
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 31.999999999999975,
+      "x": 6389.023747106655,
+      "y": 2547.210146593595
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6357.924714368547,
+        "y": 2490.210146593596
+      },
+      "children": [],
+      "ex": 6378.174714368547,
+      "ey": 2505.210146593596,
+      "fontSize": 16,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449699848323072:mv:瞬时辐射",
+            "name": "采集通道7.辐照仪.瞬时辐射"
+          },
+          "key": "text",
+          "name": "瞬时辐射",
+          "type": "text"
+        }
+      ],
+      "height": 30,
+      "id": "103a14d6",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "locked": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 25,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "visible": true,
+      "width": 40.4999999999998,
+      "x": 6337.674714368547,
+      "y": 2475.210146593596
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6416.5271697256985,
+        "y": 2490.210146593596
+      },
+      "children": [],
+      "connectedLines": [
+        {
+          "anchor": "2",
+          "lineAnchor": "1244815b",
+          "lineId": "3fb6411"
+        }
+      ],
+      "ex": 6452.5271697256985,
+      "ey": 2505.210146593596,
+      "fontSize": 12,
+      "height": 30,
+      "id": "4560672",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "MJ/m²",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 72.00000000000001,
+      "x": 6380.5271697256985,
+      "y": 2475.210146593596
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5497.023523892357,
+        "y": 2188.2101465935975
+      },
+      "children": [],
+      "ex": 5531.511247106642,
+      "ey": 2204.2101465935975,
+      "fontSize": 30,
+      "height": 31.999999999999975,
+      "id": "150a1051",
+      "lineHeight": 1.7,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "4",
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 68.97544642857075,
+      "x": 5462.535800678072,
+      "y": 2172.2101465935975
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5564.782751057153,
+        "y": 2188.2101465935975
+      },
+      "children": [],
+      "ex": 5596.701835878583,
+      "ey": 2204.2101465935975,
+      "fontSize": 14,
+      "height": 31.999999999999975,
+      "id": "4bc579",
+      "lineHeight": 1.7,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "/4",
+      "textAlign": "left",
+      "textBaseline": "bottom",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 63.83816964285857,
+      "x": 5532.863666235724,
+      "y": 2172.2101465935975
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5487.321514963791,
+        "y": 2406.2101465935966
+      },
+      "children": [],
+      "ex": 5551.321514963791,
+      "ey": 2422.2101465935966,
+      "fontSize": 17,
+      "height": 31.999999999999975,
+      "id": "4ccaafea",
+      "lineHeight": 1.7,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "运行设备数",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 5423.321514963791,
+      "y": 2390.2101465935966
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5506.86366623572,
+        "y": 2406.2101465935966
+      },
+      "children": [],
+      "connectedLines": [
+        {
+          "anchor": "3",
+          "lineAnchor": "2ddaa00e",
+          "lineId": "6794095e"
+        }
+      ],
+      "ex": 5530.86366623572,
+      "ey": 2422.2101465935966,
+      "fontSize": 30,
+      "height": 31.999999999999975,
+      "id": "104cbb34",
+      "lineHeight": 1.7,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "4",
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 48,
+      "x": 5482.86366623572,
+      "y": 2390.2101465935966
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5546.515153356647,
+        "y": 2406.2101465935966
+      },
+      "children": [],
+      "ex": 5560.8828988923615,
+      "ey": 2422.2101465935966,
+      "fontSize": 14,
+      "height": 31.999999999999975,
+      "id": "5bfd8e4f",
+      "lineHeight": 1.7,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "/4",
+      "textAlign": "left",
+      "textBaseline": "bottom",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 28.735491071429216,
+      "x": 5532.147407820932,
+      "y": 2390.2101465935966
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5487.527169725694,
+        "y": 2624.210146593598
+      },
+      "children": [],
+      "ex": 5551.527169725694,
+      "ey": 2640.210146593598,
+      "fontSize": 17,
+      "height": 31.999999999999975,
+      "id": "512f3e90",
+      "lineHeight": 1.7,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "故障设备数",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 5423.527169725694,
+      "y": 2608.210146593598
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5506.774639963791,
+        "y": 2624.210146593598
+      },
+      "children": [],
+      "ex": 5530.774639963791,
+      "ey": 2640.210146593598,
+      "fontSize": 30,
+      "height": 31.999999999999975,
+      "id": "12c912db",
+      "lineHeight": 1.7,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "0",
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 48,
+      "x": 5482.774639963791,
+      "y": 2608.210146593598
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5544.511247106646,
+        "y": 2624.210146593598
+      },
+      "children": [],
+      "ex": 5556.27240782093,
+      "ey": 2640.210146593598,
+      "fontSize": 14,
+      "height": 31.999999999999975,
+      "id": "16999d8",
+      "lineHeight": 1.7,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "/4",
+      "textAlign": "left",
+      "textBaseline": "bottom",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 23.522321428568755,
+      "x": 5532.7500863923615,
+      "y": 2608.210146593598
+    },
+    
+    {
+      "anchors": [],
+      "beforeScale": 1,
+      "center": {
+        "x": 5488.527169725694,
+        "y": 2090.2101465935993
+      },
+      "children": [],
+      "ex": 5623.527169725694,
+      "ey": 2172.2101465935993,
+      "fontSize": 30,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:在线设备数",
+            "name": "采集通道7.光伏电站.在线设备数"
+          },
+          "key": "data1",
+          "name": "数据1",
+          "type": "text"
+        }
+      ],
+      "height": 164,
+      "id": "6c99ab5",
+      "lineHeight": 1,
+      "lineWidth": 0,
+      "name": "circleGraph",
+      "data1": 95.9,
+      "data2": 4,
+      "desc": "在线率",
+      "data1Color": "#41BCF8",
+      "data2Color": "#F9B067",
+      "percentSize": "28",
+      "descSize": "18",
+      "rotate": 0,
+      "width": 270,
+      "x": 5353.527169725694,
+      "y": 2008.2101465935993
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5671.527169725695,
+        "y": 2047.7101465935993
+      },
+      "children": [],
+      "ex": 5720.527169725695,
+      "ey": 2065.2101465935993,
+      "fontSize": 30,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:装机容量",
+            "name": "采集通道7.光伏电站.装机容量"
+          },
+          "key": "text",
+          "name": "装机容量",
+          "type": "text"
+        }
+      ],
+      "height": 35,
+      "id": "7960d2",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "text",
+      "rotate": 0,
+      "text": 37,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 98,
+      "x": 5622.527169725695,
+      "y": 2030.2101465935993
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5670.527169725698,
+        "y": 2210.7101465935966
+      },
+      "children": [],
+      "ex": 5719.527169725698,
+      "ey": 2228.2101465935966,
+      "fontSize": 30,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:实时功率",
+            "name": "采集通道7.光伏电站.实时功率"
+          },
+          "key": "text",
+          "name": "实时功率",
+          "type": "text"
+        }
+      ],
+      "height": 34.99999999999999,
+      "id": "dbe267b",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "text",
+      "rotate": 0,
+      "text": 90,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 98.00000000000009,
+      "x": 5621.527169725698,
+      "y": 2193.2101465935966
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6002.527169725701,
+        "y": 2083.7101465935984
+      },
+      "children": [],
+      "ex": 6051.527169725701,
+      "ey": 2101.2101465935984,
+      "fontSize": 30,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:年利用小时数据",
+            "name": "电流"
+          },
+          "key": "text",
+          "name": "年利用小时数",
+          "type": "text"
+        }
+      ],
+      "height": 34.99999999999999,
+      "id": "51e073",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "text",
+      "rotate": 0,
+      "text": 98,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 98.00000000000009,
+      "x": 5953.527169725701,
+      "y": 2066.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5850.527169725694,
+        "y": 1996.7101465935978
+      },
+      "children": [],
+      "ex": 5899.527169725694,
+      "ey": 2014.2101465935978,
+      "fontSize": 30,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:累计发电量",
+            "name": "采集通道7.光伏电站.累计发电量"
+          },
+          "key": "text",
+          "name": "累计发电量",
+          "type": "text"
+        }
+      ],
+      "height": 34.99999999999999,
+      "id": "371a1900",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "text",
+      "rotate": 0,
+      "text": "20",
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 98.00000000000009,
+      "x": 5801.527169725694,
+      "y": 1979.2101465935978
+    },
+    {
+      "anchors": [],
+      "beforeScale": 1,
+      "center": {
+        "x": 5488.527169725694,
+        "y": 2295.2101465935966
+      },
+      "children": [],
+      "echart_type": "pie",
+      "echarts": {
+        "option": {
+          "series": [
+            {
+              "avoidLabelOverlap": false,
+              "data": [
+                {
+                  "itemStyle": {
+                    "color": {
+                      "colorStops": [
+                        {
+                          "color": "#41BCF8",
+                          "offset": 0
+                        },
+                        {
+                          "color": "#0071D1",
+                          "offset": 1
+                        }
+                      ],
+                      "type": "linear",
+                      "x": 0,
+                      "x2": 1,
+                      "y": 0,
+                      "y2": 1
+                    }
+                  },
+                  "label": {
+                    "color": "white",
+                    "formatter": "{per|{d}%}\n{b|运行率}",
+                    "position": "center",
+                    "rich": {
+                      "b": {
+                        "fontSize": 13.999999999999996,
+                        "lineHeight": 20
+                      },
+                      "per": {
+                        "fontSize": 23.999999999999993,
+                        "fontWeight": "bold",
+                        "lineHeight": 28
+                      }
+                    },
+                    "show": true
+                  },
+                  "name": "采集通道7.光伏电站.运行设备数（不绑定）",
+                  "value": 100
+                },
+                {
+                  "itemStyle": {
+                    "color": {
+                      "colorStops": [
+                        {
+                          "color": "#F9B067",
+                          "offset": 0
+                        },
+                        {
+                          "color": "#C36D0D",
+                          "offset": 1
+                        }
+                      ],
+                      "type": "linear",
+                      "x": 0,
+                      "x2": 1,
+                      "y": 0,
+                      "y2": 1
+                    }
+                  },
+                  "name": "采集通道7.光伏电站.非运行设备数（不绑定）",
+                  "value": 0
+                }
+              ],
+              "emphasis": {
+                "show": false
+              },
+              "label": {
+                "show": false
+              },
+              "name": "",
+              "percentPrecision": 1,
+              "radius": [
+                "70%",
+                "90%"
+              ],
+              "silent": true,
+              "type": "pie"
+            }
+          ]
+        },
+        "replaceMode": 1
+      },
+      "ex": 5623.527169725694,
+      "ey": 2377.2101465935966,
+      "fontSize": 12,
+      "form": [
+        {
+          "dataIds": [
+            {
+              "dataId": "D4186449805599309824:mv:运行设备数",
+              "name": "采集通道7.光伏电站.运行设备数"
+            },
+            {
+              "dataId": "D4186449805599309824:mv:非运行设备数",
+              "name": "采集通道7.光伏电站.非运行设备数"
+            }
+          ],
+          "key": "dataY",
+          "multiple": true,
+          "name": "数据",
+          "placeholder": "仅绑定变量",
+          "readonly": true,
+          "type": "text"
+        },
+        {
+          "key": "echarts",
+          "name": "echarts",
+          "type": "code"
+        },
+        {
+          "key": "echarts",
+          "key2": "max",
+          "name": "最大数量",
+          "placeholder": "x",
+          "type": "number"
+        }
+      ],
+      "height": 163.99999999999994,
+      "id": "ea148d8",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "echarts",
+      "rotate": 0,
+      "textColor": "rgba(255,255,255,1)",
+      "width": 269.99999999999994,
+      "x": 5353.527169725694,
+      "y": 2213.2101465935966
+    },
+    {
+      "anchors": [],
+      "beforeScale": 1,
+      "center": {
+        "x": 5488.527169725694,
+        "y": 2516.2101465935984
+      },
+      "children": [],
+      "echart_type": "pie",
+      "echarts": {
+        "option": {
+          "series": [
+            {
+              "avoidLabelOverlap": false,
+              "data": [
+                {
+                  "itemStyle": {
+                    "color": {
+                      "colorStops": [
+                        {
+                          "color": "#F85E41",
+                          "offset": 0
+                        },
+                        {
+                          "color": "#C31A1A",
+                          "offset": 1
+                        }
+                      ],
+                      "type": "linear",
+                      "x": 0,
+                      "x2": 1,
+                      "y": 0,
+                      "y2": 1
+                    }
+                  },
+                  "label": {
+                    "color": "white",
+                    "formatter": "{per|{d}%}\n{b|故障率}",
+                    "position": "center",
+                    "rich": {
+                      "b": {
+                        "fontSize": 13.999999999999996,
+                        "lineHeight": 20
+                      },
+                      "per": {
+                        "fontSize": 23.999999999999993,
+                        "fontWeight": "bold",
+                        "lineHeight": 28
+                      }
+                    },
+                    "show": true
+                  },
+                  "name": "采集通道7.光伏电站.故障设备数（不绑定）",
+                  "value": 0
+                },
+                {
+                  "itemStyle": {
+                    "color": {
+                      "colorStops": [
+                        {
+                          "color": "#F9B067",
+                          "offset": 0
+                        },
+                        {
+                          "color": "#C36D0D",
+                          "offset": 1
+                        }
+                      ],
+                      "type": "linear",
+                      "x": 0,
+                      "x2": 1,
+                      "y": 0,
+                      "y2": 1
+                    }
+                  },
+                  "name": "采集通道7.光伏电站.非故障设备数（不绑定）",
+                  "value": 100
+                }
+              ],
+              "emphasis": {
+                "show": false
+              },
+              "label": {
+                "show": false
+              },
+              "name": "",
+              "percentPrecision": 1,
+              "radius": [
+                "70%",
+                "90%"
+              ],
+              "silent": true,
+              "type": "pie"
+            }
+          ]
+        },
+        "replaceMode": 1
+      },
+      "ex": 5623.527169725694,
+      "ey": 2598.2101465935984,
+      "fontSize": 12,
+      "form": [
+        {
+          "dataIds": [
+            {
+              "dataId": "D4186449805599309824:mv:故障设备数",
+              "name": "采集通道7.光伏电站.故障设备数"
+            },
+            {
+              "dataId": "D4186449805599309824:mv:非故障设备数",
+              "name": "采集通道7.光伏电站.非故障设备数"
+            }
+          ],
+          "key": "dataY",
+          "multiple": true,
+          "name": "数据",
+          "placeholder": "仅绑定变量",
+          "readonly": true,
+          "type": "text"
+        },
+        {
+          "key": "echarts",
+          "name": "echarts",
+          "type": "code"
+        },
+        {
+          "key": "echarts",
+          "key2": "max",
+          "name": "最大数量",
+          "placeholder": "x",
+          "type": "number"
+        }
+      ],
+      "height": 163.99999999999994,
+      "id": "610e0b57",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "echarts",
+      "rotate": 0,
+      "textColor": "rgba(255,255,255,1)",
+      "width": 269.99999999999994,
+      "x": 5353.527169725694,
+      "y": 2434.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6246.527169725697,
+        "y": 2286.2101465936003
+      },
+      "children": [],
+      "ex": 6310.527169725697,
+      "ey": 2296.2101465936003,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "48313aab",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "补贴电价：",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 6182.527169725697,
+      "y": 2276.2101465936003
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6308.5271697256985,
+        "y": 2287.7101465935966
+      },
+      "children": [],
+      "ex": 6356.5271697256985,
+      "ey": 2300.2101465935966,
+      "fontSize": 18,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:年收益",
+            "name": "采集通道7.光伏电站.年收益"
+          },
+          "key": "text",
+          "name": "年收益",
+          "placeholder": "光伏电站",
+          "type": "text"
+        }
+      ],
+      "height": 25.000000000000004,
+      "id": "a38e0b",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": 61,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 95.99999999999997,
+      "x": 6260.5271697256985,
+      "y": 2275.2101465935966
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6396.299714368553,
+        "y": 2286.2101465935966
+      },
+      "children": [],
+      "ex": 6419.072259011411,
+      "ey": 2297.2101465935966,
+      "fontSize": 16,
+      "height": 22,
+      "id": "6ae9644",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "元",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 45.54508928571498,
+      "x": 6373.527169725696,
+      "y": 2275.2101465935966
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6039.527169725692,
+        "y": 2269.2101465935993
+      },
+      "children": [],
+      "ex": 6103.527169725692,
+      "ey": 2279.2101465935993,
+      "fontSize": 14,
+      "height": 19.99999999999999,
+      "id": "489db272",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "安全运行时间",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 127.9999999999999,
+      "x": 5975.527169725692,
+      "y": 2259.2101465935993
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6068.183419725695,
+        "y": 2249.4106127940677
+      },
+      "children": [],
+      "ex": 6102.589669725695,
+      "ey": 2259.4106127940677,
+      "fontSize": 16,
+      "height": 19.99999999999999,
+      "id": "519efdf",
+      "lineHeight": 2.3,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "天",
+      "textAlign": "left",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 68.81250000000026,
+      "x": 6033.777169725695,
+      "y": 2239.4106127940677
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 5982.527169725701,
+        "y": 2243.7101465935984
+      },
+      "children": [],
+      "ex": 6031.527169725701,
+      "ey": 2261.2101465935984,
+      "fontSize": 30,
+      "form": [
+        {
+          "dataIds": {
+            "dataId": "D4186449805599309824:mv:日发电量",
+            "name": "日发电量"
+          },
+          "key": "text",
+          "name": "年利用小时数",
+          "type": "text"
+        }
+      ],
+      "height": 34.99999999999999,
+      "id": "c6b98c2",
+      "lineHeight": 1.5,
+      "lineWidth": 1,
+      "name": "text",
+      "rotate": 0,
+      "text": 98,
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 98.00000000000009,
+      "x": 5933.527169725701,
+      "y": 2226.2101465935984
+    },
+    {
+      "anchors": [],
+      "center": {
+        "x": 6405.023747106655,
+        "y": 2638.2101465935953
+      },
+      "children": [],
+      "ex": 6421.023747106655,
+      "ey": 2653.2101465935953,
+      "fontSize": 12,
+      "height": 30,
+      "id": "4d6791c",
+      "lineHeight": 1.5,
+      "lineWidth": 0,
+      "name": "square",
+      "rotate": 0,
+      "text": "m/s",
+      "textAlign": "right",
+      "textColor": "rgba(255,255,255,1)",
+      "width": 31.999999999999975,
+      "x": 6389.023747106655,
+      "y": 2623.2101465935953
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "name": "square",
+      "id": "4aca85a1",
+      "children": [],
+      "x": 6155.235294117647,
+      "y": 2453.210146593598,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "color": "rgba(255,255,255,0)",
+      "image": "viewProject/assets/share_icon1.svg",
+      "ex": 6195.235294117647,
+      "ey": 2493.210146593598,
+      "center": {
+        "x": 6175.235294117647,
+        "y": 2473.210146593598
+      }
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "name": "square",
+      "id": "a3d8438",
+      "children": [],
+      "x": 6296.674714368552,
+      "y": 2604.6526069110596,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "color": "rgba(255,255,255,0)",
+      "image": "viewProject/assets/share_icon5.svg",
+      "ex": 6336.674714368552,
+      "ey": 2644.6526069110596,
+      "center": {
+        "x": 6316.674714368552,
+        "y": 2624.6526069110596
+      }
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "name": "square",
+      "id": "37af5e66",
+      "children": [],
+      "x": 6296.674714368547,
+      "y": 2529.210146593599,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "color": "rgba(255,255,255,0)",
+      "image": "viewProject/assets/share_icon4.svg",
+      "ex": 6336.674714368547,
+      "ey": 2569.210146593599,
+      "center": {
+        "x": 6316.674714368547,
+        "y": 2549.210146593599
+      }
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "name": "square",
+      "id": "eaad18f",
+      "children": [],
+      "x": 6296.674714368548,
+      "y": 2453.210146593598,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "color": "rgba(255,255,255,0)",
+      "image": "viewProject/assets/share_icon1.svg",
+      "ex": 6336.674714368548,
+      "ey": 2493.210146593598,
+      "center": {
+        "x": 6316.674714368548,
+        "y": 2473.210146593598
+      }
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "name": "square",
+      "id": "50bf738d",
+      "children": [],
+      "x": 6155.235294117647,
+      "y": 2529.210146593599,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "color": "rgba(255,255,255,0)",
+      "image": "viewProject/assets/share_icon2.svg",
+      "ex": 6195.235294117647,
+      "ey": 2569.210146593599,
+      "center": {
+        "x": 6175.235294117647,
+        "y": 2549.210146593599
+      }
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "name": "square",
+      "id": "1bba85d5",
+      "children": [],
+      "x": 6155.527169725693,
+      "y": 2604.6526069110596,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "color": "rgba(255,255,255,0)",
+      "image": "viewProject/assets/share_icon3.svg",
+      "ex": 6195.527169725693,
+      "ey": 2644.6526069110596,
+      "center": {
+        "x": 6175.527169725693,
+        "y": 2624.6526069110596
+      }
+    },
+    {
+      "width": 30.000000000000004,
+      "height": 30.000000000000004,
+      "name": "square",
+      "id": "1fcd0e1b",
+      "children": [],
+      "x": 6146.863666235724,
+      "y": 2016.7058823529408,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "image": "viewProject/assets/share_icon6.png",
+      "color": "rgba(255,255,255,0)",
+      "ex": 6176.863666235724,
+      "ey": 2046.7058823529408,
+      "center": {
+        "x": 6161.863666235724,
+        "y": 2031.7058823529408
+      }
+    },
+    {
+      "width": 30.000000000000004,
+      "height": 30.000000000000004,
+      "name": "square",
+      "id": "5e55df68",
+      "children": [],
+      "x": 6146.863666235724,
+      "y": 2148.2101465936,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "image": "viewProject/assets/share_icon6.png",
+      "color": "rgba(255,255,255,0)",
+      "ex": 6176.863666235724,
+      "ey": 2178.2101465936,
+      "center": {
+        "x": 6161.863666235724,
+        "y": 2163.2101465936
+      }
+    },
+    {
+      "width": 30.000000000000004,
+      "height": 30.000000000000004,
+      "name": "square",
+      "id": "10a5fcbe",
+      "children": [],
+      "x": 6146.863666235724,
+      "y": 2189.2101465936003,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "image": "viewProject/assets/share_icon6.png",
+      "color": "rgba(255,255,255,0)",
+      "ex": 6176.863666235724,
+      "ey": 2219.2101465936003,
+      "center": {
+        "x": 6161.863666235724,
+        "y": 2204.2101465936003
+      },
+      "connectedLines": [
+        {
+          "lineId": "4d98300",
+          "lineAnchor": "159ffe8a",
+          "anchor": "0"
+        }
+      ]
+    },
+    {
+      "width": 30.000000000000004,
+      "height": 30.000000000000004,
+      "name": "square",
+      "id": "435f3c7",
+      "children": [],
+      "x": 6146.863666235724,
+      "y": 2231.2101465935984,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "image": "viewProject/assets/share_icon6.png",
+      "color": "rgba(255,255,255,0)",
+      "ex": 6176.863666235724,
+      "ey": 2261.2101465935984,
+      "center": {
+        "x": 6161.863666235724,
+        "y": 2246.2101465935984
+      }
+    },
+    {
+      "width": 30.000000000000004,
+      "height": 30.000000000000004,
+      "name": "square",
+      "id": "37711f5b",
+      "children": [],
+      "x": 6146.863666235724,
+      "y": 2271.2101465936003,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "image": "viewProject/assets/share_icon6.png",
+      "color": "rgba(255,255,255,0)",
+      "ex": 6176.863666235724,
+      "ey": 2301.2101465936003,
+      "center": {
+        "x": 6161.863666235724,
+        "y": 2286.2101465936003
+      }
+    },
+    {
+      "width": 30.000000000000004,
+      "height": 30.000000000000004,
+      "name": "square",
+      "id": "ebee9d7",
+      "children": [],
+      "x": 6146.863666235724,
+      "y": 2316.2101465935984,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "image": "viewProject/assets/share_icon6.png",
+      "color": "rgba(255,255,255,0)",
+      "ex": 6176.863666235724,
+      "ey": 2346.2101465935984,
+      "center": {
+        "x": 6161.863666235724,
+        "y": 2331.2101465935984
+      }
+    },
+    {
+      "width": 30.000000000000004,
+      "height": 30.000000000000004,
+      "name": "square",
+      "id": "4edb0745",
+      "children": [],
+      "x": 6146.863666235724,
+      "y": 2062.210146593602,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "image": "viewProject/assets/share_icon6.png",
+      "color": "rgba(255,255,255,0)",
+      "ex": 6176.863666235724,
+      "ey": 2092.210146593602,
+      "center": {
+        "x": 6161.863666235724,
+        "y": 2077.210146593602
+      }
+    },
+    {
+      "width": 30.000000000000004,
+      "height": 30.000000000000004,
+      "name": "square",
+      "id": "401799d1",
+      "children": [],
+      "x": 6146.863666235724,
+      "y": 2104.2101465936003,
+      "lineWidth": 1,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [],
+      "rotate": 0,
+      "ratio": true,
+      "image": "viewProject/assets/share_icon6.png",
+      "color": "rgba(255,255,255,0)",
+      "ex": 6176.863666235724,
+      "ey": 2134.2101465936003,
+      "center": {
+        "x": 6161.863666235724,
+        "y": 2119.2101465936003
+      }
+    },
+    {
+      "text": "",
+      "width": 20,
+      "height": 20,
+      "name": "square",
+      "form": [
+        {
+          "key": "text",
+          "type": "text",
+          "name": "文本"
+        }
+      ],
+      "id": "5abeb647",
+      "children": [],
+      "x": 5401.863666235724,
+      "y": 1984.2101465935987,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [
+        {
+          "id": "0",
+          "penId": "5abeb647",
+          "x": 0.5,
+          "y": 0
+        },
+        {
+          "id": "1",
+          "penId": "5abeb647",
+          "x": 1,
+          "y": 0.5
+        },
+        {
+          "id": "2",
+          "penId": "5abeb647",
+          "x": 0.5,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "penId": "5abeb647",
+          "x": 0,
+          "y": 0.5
+        }
+      ],
+      "rotate": 0,
+      "image": "viewProject/assets/share_titles_Icon.svg",
+      "lineWidth": 0
+    },
+    {
+      "text": "",
+      "width": 20,
+      "height": 20,
+      "name": "square",
+      "form": [
+        {
+          "key": "text",
+          "type": "text",
+          "name": "文本"
+        }
+      ],
+      "id": "8ca965c",
+      "children": [],
+      "x": 6151.863666235724,
+      "y": 1984.2101465935987,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [
+        {
+          "id": "0",
+          "penId": "8ca965c",
+          "x": 0.5,
+          "y": 0
+        },
+        {
+          "id": "1",
+          "penId": "8ca965c",
+          "x": 1,
+          "y": 0.5
+        },
+        {
+          "id": "2",
+          "penId": "8ca965c",
+          "x": 0.5,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "penId": "8ca965c",
+          "x": 0,
+          "y": 0.5
+        }
+      ],
+      "rotate": 0,
+      "image": "viewProject/assets/share_titles_Icon.svg",
+      "lineWidth": 0
+    },
+    {
+      "text": "",
+      "width": 20,
+      "height": 20,
+      "name": "square",
+      "form": [
+        {
+          "key": "text",
+          "type": "text",
+          "name": "文本"
+        }
+      ],
+      "id": "ac9171f",
+      "children": [],
+      "x": 6151.863666235724,
+      "y": 2413.2101465935984,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [
+        {
+          "id": "0",
+          "penId": "ac9171f",
+          "x": 0.5,
+          "y": 0
+        },
+        {
+          "id": "1",
+          "penId": "ac9171f",
+          "x": 1,
+          "y": 0.5
+        },
+        {
+          "id": "2",
+          "penId": "ac9171f",
+          "x": 0.5,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "penId": "ac9171f",
+          "x": 0,
+          "y": 0.5
+        }
+      ],
+      "rotate": 0,
+      "image": "viewProject/assets/share_titles_Icon.svg",
+      "lineWidth": 0
+    },
+    {
+      "text": "",
+      "width": 20,
+      "height": 20,
+      "name": "square",
+      "form": [
+        {
+          "key": "text",
+          "type": "text",
+          "name": "文本"
+        }
+      ],
+      "id": "5a0eab7b",
+      "children": [],
+      "x": 5651.863666235724,
+      "y": 2415.2101465935984,
+      "fontSize": 12,
+      "lineHeight": 1.5,
+      "anchors": [
+        {
+          "id": "0",
+          "penId": "5a0eab7b",
+          "x": 0.5,
+          "y": 0
+        },
+        {
+          "id": "1",
+          "penId": "5a0eab7b",
+          "x": 1,
+          "y": 0.5
+        },
+        {
+          "id": "2",
+          "penId": "5a0eab7b",
+          "x": 0.5,
+          "y": 1
+        },
+        {
+          "id": "3",
+          "penId": "5a0eab7b",
+          "x": 0,
+          "y": 0.5
+        }
+      ],
+      "rotate": 0,
+      "image": "viewProject/assets/share_titles_Icon.svg",
+      "lineWidth": 0
+    }
+  ],
+  "origin": {
+    "x": 5201.863666235724,
+    "y": 1879.2101465935987
+  },
+  "center": {
+    "x": 5102,
+    "y": 1841
+  },
+  "paths": {},
+  "version": "1.0.13",
+  "name": "preview",
+  "background": ""
+}

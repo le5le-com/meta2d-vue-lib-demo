@@ -324,9 +324,10 @@ const registerCustomShape = (el) => {
   }
 };
 const handlePage = async () => {
-  const data = await axios.get('/mock/page1.json');
+  const data = await axios.get('/mock/test-3.json');
+  console.log('data',data);
   // 打开页面，调用openWithCache函数
-  meta2d.openWithCache(data, true, true);
+  meta2d.openWithCache(data.data, true, true);
 };
 const handleDetail = () => {
   // 获取当前页面的所有图元数据
